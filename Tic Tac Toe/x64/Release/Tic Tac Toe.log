@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Meherzad\Desktop\Workings\Programming\Visual Studio C++\SFML Programming\Tic Tac Toe\Tic Tac Toe\Main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tic Tac Toe.vcxproj -> C:\Users\Meherzad\Desktop\Workings\Programming\Visual Studio C++\SFML Programming\Tic Tac Toe\x64\Release\Tic Tac Toe.exe
