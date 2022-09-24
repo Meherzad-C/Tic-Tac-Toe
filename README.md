@@ -11,6 +11,6 @@ Instructions -
 6. You can click "Reset" and start the game again.
 
 Additional information -  
-Language - C++20  
+Language - C++  
 API - SFML API  
 IDE - Visual Studio 2022  
